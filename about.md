@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Rafia's CV
+title: About Rafia
 permalink: /about/
-
 
 ---
 Rafia Mirza is currently a Humanities Research Librarian at SMU. She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects and leads the [Digital Humanities Research Institute at SMU.](www.smu.edu/dhri)
@@ -24,9 +23,9 @@ Online Social media and Academic accounts
 
 
 ### More Information
- <a href="https://rafiamirzasite.wordpress.com/">Click here for my resume</a> 
+ * <a href="https://rafiamirzasite.wordpress.com/">Click here for my resume</a> 
 
 
 ### Contact me
 
-[librarianrafia@gmail.com](mailto:librarianrafia@gmail.com)
+* [librarianrafia@gmail.com](mailto:librarianrafia@gmail.com)
