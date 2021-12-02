@@ -6,7 +6,7 @@
 name: librarianrafia
 
 # Short bio or description (displayed in the header)
-description: librarian!
+description: Humanities Librarian at SMU
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/6818023?v=3&s=460
@@ -17,20 +17,13 @@ avatar: https://avatars2.githubusercontent.com/u/6818023?v=3&s=460
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: librarianrafia@gmail.com
-  facebook:
-  flickr:
   github: librarianrafia
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # RSS
+  Rss: # RSS
   twitter: librarianrafia
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: u/0/102263284774726527911
-
+  
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -39,7 +32,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://librarianrafia.github.io
 
@@ -56,10 +49,11 @@ githubuser: librarianrafia
 # !! You don't need to change any of the configuration flags below !!
 #
 
+
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v1.1.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -74,16 +68,3 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
