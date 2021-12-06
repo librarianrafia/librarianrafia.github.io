@@ -1,3 +1,1 @@
-Professional site for Rafia Mirza
-
-[librarianrafia.github.io](librarianrafia.github.io)
+[Professional site for Rafia Mirza](librarianrafia.github.io)
