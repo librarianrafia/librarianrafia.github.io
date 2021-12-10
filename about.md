@@ -23,7 +23,7 @@ Online Social media and Academic accounts
 
 
 ### More Information
- * <a href="https://rafiamirzasite.wordpress.com/">Click here for my resume</a> 
+ * <a href="https://librarianrafia.github.io/cv/">Click here for my resume</a> 
 
 
 ### Contact me
