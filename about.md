@@ -2,8 +2,7 @@
 layout: page
 title: About Rafia
 permalink: /about/
-title: DS projects
-permalink: /projects/
+
 
 
 ---
