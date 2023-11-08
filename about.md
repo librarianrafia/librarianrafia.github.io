@@ -2,6 +2,9 @@
 layout: page
 title: About Rafia
 permalink: /about/
+title: DS projects
+permalink: /projects/
+
 
 ---
 Rafia Mirza is currently a Digital Scholarship Librarian at SMU (Southern Methodist University). She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects. 
@@ -11,12 +14,14 @@ She did graduate coursework in American studies at the University of Minnesota a
 Online Social media and Academic accounts
 
 <b>Social Media (librarianrafia)</b>
-* [Twitter:](https://twitter.com/LibrarianRafia)
-* [Tumblr:](https://www.tumblr.com/blog/librarianrafia)
+* [Tumblr](https://www.tumblr.com/blog/librarianrafia)
+* [Bluesky](https://bsky.app/profile/librarianrafia.bsky.social)
+* [Mastodon](https://hcommons.social/@librarianrafia)
+* [Twitter](https://twitter.com/LibrarianRafia)
 
 <b>Slides and Presentations</b>
-* [OSF Account](https://osf.io/7bp5p/)
 * [Github](https://github.com/librarianrafia)
+* [OSF Account](https://osf.io/7bp5p/)
 
 <b>Academic/ Professional Profiles</b> 
 * [Orchid ID number](http://orcid.org/0000-0002-0109-7209)
