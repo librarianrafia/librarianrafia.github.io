@@ -8,15 +8,15 @@ permalink: /about/
 ---
 Rafia Mirza is currently a Digital Scholarship Librarian at SMU (Southern Methodist University). She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects. 
 
-She did graduate coursework in American studies at the University of Minnesota and received her MSI from the University of Michigan. Her research interests include digital humanities, digital project planning, digital pedagogy and popular culture. She is currently pursuing a Masters of Science in Data Science at SMU.
+She did graduate coursework in American Studies at the University of Minnesota and received her MSI from the University of Michigan. Her research interests include digital humanities, digital project planning, digital pedagogy and popular culture. She is currently pursuing a Masters of Science in Data Science at SMU.
 
 Online Social media and Academic accounts
 
 <b>Social Media (librarianrafia)</b>
-* [Tumblr](https://www.tumblr.com/blog/librarianrafia)
 * [Bluesky](https://bsky.app/profile/librarianrafia.bsky.social)
+* [Tumblr](https://www.tumblr.com/blog/librarianrafia)
 * [Mastodon](https://hcommons.social/@librarianrafia)
-* [Twitter](https://twitter.com/LibrarianRafia)
+
 
 <b>Slides and Presentations</b>
 * [Github](https://github.com/librarianrafia)
