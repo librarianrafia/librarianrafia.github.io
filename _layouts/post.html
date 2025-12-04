@@ -9,6 +9,17 @@ layout: default
     {{ content }}
   </div>
 
+    {% if page.tags %}
+    <p class="post-tags">
+      <span class="post-tags-label">Tags:</span>
+      {% for tag in page.tags %}
+        <a class="tag-badge" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">
+          {{ tag }}
+        </a>
+      {% endfor %}
+    </p>
+  {% endif %}
+
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>

@@ -287,3 +287,25 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+.post-tags {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.post-tags-label {
+  font-weight: bold;
+  margin-right: 0.3rem;
+}
+
+.tag-badge {
+  display: inline-block;
+  margin-right: 0.3rem;
+  margin-bottom: 0.2rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid #ddd;
+  text-decoration: none;
+  font-size: 0.85rem;
+}
