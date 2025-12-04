@@ -8,3 +8,6 @@ title: Case Study (Beer)
 -- HTML of EDA [here](https://librarianrafia.github.io/EDA/)
 
 -- Shiny App [here](https://librarianrafia.shinyapps.io/EDA_Beers/)
+
+-- [Download the data](../data/2023-11-6-merged_data.csv)
+
