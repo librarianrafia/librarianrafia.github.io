@@ -20,6 +20,7 @@ Online accounts:
 <b>Slides and Presentations</b>
 * [Github](https://github.com/librarianrafia)
 * [OSF Account](https://osf.io/7bp5p/)
+* [Slideshare](https://www.slideshare.net/librarianrafia)
 
 <b>Social Media (librarianrafia)</b>
 * [Bluesky](https://bsky.app/profile/librarianrafia.bsky.social)
