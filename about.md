@@ -6,9 +6,11 @@ permalink: /about/
 
 
 ---
-Rafia Mirza is currently the Economics Liaison, and the Digital Scholarship Librarian at SMU (Southern Methodist University). She helps provide research and instructional support for students and faculty who are interested in digital scholarship projects. 
+Rafia Mirza is currently the Scholarly Communication Librarian and Liaison Librarian for: Economics, Statistics & Data Science, Engineering & Science at SMU (Southern Methodist University). 
 
-She did graduate coursework in American Studies at the University of Minnesota, and received her MSI (Master of Science in Information) from the University of Michigan and MSDS (Master of Science in Data Science) from SMU.  Her research interests include digital humanities, digital project planning, digital pedagogy and popular culture. 
+She did graduate coursework in American Studies at the University of Minnesota, and received her MSI (Master of Science in Information) from the University of Michigan and MSDS (Master of Science in Data Science) from SMU.  
+
+Her research focuses on digital humanities, project planning and infrastructure in libraries, as well as race, gender, and labor in librarianship. 
 
 
 Online accounts:
