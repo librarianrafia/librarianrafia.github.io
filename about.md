@@ -26,6 +26,7 @@ Online accounts:
 
 <b>Social Media (librarianrafia)</b>
 * [Bluesky](https://bsky.app/profile/librarianrafia.bsky.social)
+* [LinkedIn](https://www.linkedin.com/in/rafiamirza/)
 * [Tumblr](https://www.tumblr.com/blog/librarianrafia)
 
 
