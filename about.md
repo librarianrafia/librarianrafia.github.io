@@ -16,7 +16,7 @@ Her research focuses on digital humanities, project planning and infrastructure 
 Online accounts:
 
 <b>Academic/ Professional Profiles</b> 
-* [Orchid ID number](http://orcid.org/0000-0002-0109-7209)
+* [Orchid ID: [http://orcid.org/0000-0002-0109-7209](https://orcid.org/0000-0002-0109-7209)
 * [Google Scholar Profile](http://scholar.google.com/citations?user=ritomzMAAAAJ_)
 
 <b>Slides and Presentations</b>
